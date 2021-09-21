@@ -6,4 +6,4 @@
 
 Updating introduction
 
-Commiting Chapter 1, Error
+Commiting Chapter 1, Error Estimation
