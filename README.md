@@ -10,6 +10,6 @@ HW1（10月11日交）
 
 <img width="513" alt="1" src="https://user-images.githubusercontent.com/16358034/135015954-136979f3-7f18-43c6-bfb9-a7b8de0d3e4d.png">
 
-HW2(有兴趣的同学编程实现下题)
+HW2(有兴趣的同学编程实现下题，实现后可将程序发送到邮箱：nyliubin@nchu.edu.cn)
 
 <img width="502" alt="2" src="https://user-images.githubusercontent.com/16358034/135016203-6296e6cd-a833-4b07-aa7f-c22e80e79e68.png">
